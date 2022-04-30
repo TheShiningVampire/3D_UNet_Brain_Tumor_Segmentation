@@ -1,0 +1,6 @@
+matplotlib==3.4.2
+nibabel==3.2.2
+numpy==1.19.5
+scikit_learn==1.0.2
+tensorflow==2.7.0
+tifffile==2022.4.28
